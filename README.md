@@ -94,8 +94,3 @@
 - hackerone - Tor Project <a href="https://hackerone.com/torproject?type=team" target="_blank">`BugBounty`</a> Recompensa média **$ 200**
 - hackerone <a href="https://hackerone.com/hacktivity?order_direction=DESC&order_field=popular&filter=type%3Aall" target="_blank">`BugBounty`</a>
 ---
-
-# Minhas Redes
-<code><img height="100" width="100" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/code.png"></code>
-
-
